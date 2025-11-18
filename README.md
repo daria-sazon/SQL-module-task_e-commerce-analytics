@@ -8,4 +8,4 @@ An analysis was made of the dynamics of account creation, user activity by email
 
 **Visualizing results in Looker Studio**
 
-![Visualization in Looker](https://raw.githubusercontent.com/daria-sazon/SQL-module-task/refs/heads/main/E-commerce-analytics.png)
+![Visualization in Looker](https://raw.githubusercontent.com/daria-sazon/SQL-module-task_e-commerce-analytics/refs/heads/main/E-commerce-analytics.png)
